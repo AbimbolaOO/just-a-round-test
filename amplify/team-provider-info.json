@@ -1,0 +1,15 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-gitmerger-dev-222256-authRole",
+            "UnauthRoleArn": "arn:aws:iam::946325471440:role/amplify-gitmerger-dev-222256-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::946325471440:role/amplify-gitmerger-dev-222256-authRole",
+            "Region": "us-east-2",
+            "DeploymentBucketName": "amplify-gitmerger-dev-222256-deployment",
+            "UnauthRoleName": "amplify-gitmerger-dev-222256-unauthRole",
+            "StackName": "amplify-gitmerger-dev-222256",
+            "StackId": "arn:aws:cloudformation:us-east-2:946325471440:stack/amplify-gitmerger-dev-222256/2d321230-e262-11ea-996d-02a652231b7e",
+            "AmplifyAppId": "d2hhpqetx40yzp"
+        }
+    }
+}
