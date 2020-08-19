@@ -10,6 +10,14 @@
             "StackName": "amplify-gitmerger-dev-222256",
             "StackId": "arn:aws:cloudformation:us-east-2:946325471440:stack/amplify-gitmerger-dev-222256/2d321230-e262-11ea-996d-02a652231b7e",
             "AmplifyAppId": "d2hhpqetx40yzp"
+        },
+        "categories": {
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "d2hhpqetx40yzp",
+                    "type": "cicd"
+                }
+            }
         }
     }
 }
